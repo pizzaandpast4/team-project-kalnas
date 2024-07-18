@@ -14,8 +14,6 @@ This project is for educational purposes only. Pull requests are welcome, priori
 
 Site published at: https://pizzaandpast4.github.io/team-project-kalnas/
 
-Design: [Labirintas](https://dribbble.com/shots/2537184-Day-008-404-Page-Daily-UI)
-
 ## 🎯 Project features/goals
 
 -   Github pages
