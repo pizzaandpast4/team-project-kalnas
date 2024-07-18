@@ -12,7 +12,7 @@ _website design project_
 
 This project is for educational purposes only. Pull requests are welcome, priority for project authors! Thank you for your cooperation!
 
-Site published at: https://pizzaandpast4.github.io/intro-html-labirintas/
+Site published at: https://pizzaandpast4.github.io/team-project-kalnas/
 
 Design: [Labirintas](https://dribbble.com/shots/2537184-Day-008-404-Page-Daily-UI)
 
@@ -45,7 +45,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/50-grupe-labirintas.git
+    git clone https://github.com/front-end-by-rimantas/team-project-kalnas.git
     ```
 2. Install NPM packages
     ```sh
